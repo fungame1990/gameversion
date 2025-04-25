@@ -5,7 +5,7 @@
   },
   "forceUpdate": {
     "android": true,
-    "ios": false
+    "ios": true
   },
   "updateUrl": {
     "android": "https://play.google.com/store/apps/details?id=com.yourgame.id",
