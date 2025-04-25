@@ -1,7 +1,7 @@
 {
   "latestVersion": {
-    "android": "1.1",
-    "ios": "1.1"
+    "android": "1.0",
+    "ios": "1.0"
   },
   "forceUpdate": {
     "android": true,
