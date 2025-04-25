@@ -1,5 +1,14 @@
 {
-  "latestVersion": "1.0",
-  "forceUpdate": true,
-  "updateUrl": "https://play.google.com/store/apps/details?id=com.yourgame.id"
+  "latestVersion": {
+    "android": "1.3",
+    "ios": "1.2"
+  },
+  "forceUpdate": {
+    "android": true,
+    "ios": false
+  },
+  "updateUrl": {
+    "android": "https://play.google.com/store/apps/details?id=com.yourgame.id",
+    "ios": "https://apps.apple.com/app/id123456789"
+  }
 }
