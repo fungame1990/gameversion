@@ -1,4 +1,6 @@
 {
-  "androidVersion": "1.0",
-  "iosVersion": "1.0"
+  "latestVersion": {
+    "android": "1.0",
+    "ios": "1.0"
+  }
 }
